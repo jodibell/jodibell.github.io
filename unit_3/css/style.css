@@ -1,0 +1,15 @@
+body {
+	background: url("https://www.flickr.com/photos/kungfuslippers/27448585346/in/explore-2016-06-05/");
+	background-color: #838383;
+	background-size: cover;
+	color: black;
+	font-family: Helvetica;
+}
+h1	{
+	font-weight: 700;
+	font-size: 24px;
+	color: #fff;
+}
+#slogan	{
+	font-style: italic; 
+}
