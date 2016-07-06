@@ -1,11 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
+	font-family: Times New Roman, serif;
+}
+section {
+	padding:5em 0;
+}
+section#splash {
 	background: url(../images/Boy_Running.jpg);
 	background-size: cover;
 	color: #fff;
-	font-family: Times New Roman, serif;
-	margin: 10em;
+	height:80vh;
+	padding:10em;
+}
+section#about {
+	background: #54c9f3;
+	color:#fff;
 }
 h1	{
 	font-family: 'Open Sans', sans-serif;
